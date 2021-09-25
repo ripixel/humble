@@ -1,0 +1,25 @@
+{
+  "name": "humble",
+  "version": "1.0.0",
+  "description": "The simplest static site generator for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripixel/humble.git"
+  },
+  "keywords": [
+    "ssg",
+    "statis",
+    "site",
+    "generator"
+  ],
+  "author": "James King <ripixel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ripixel/humble/issues"
+  },
+  "homepage": "https://github.com/ripixel/humble#readme"
+}
