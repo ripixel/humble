@@ -21,5 +21,24 @@
   "bugs": {
     "url": "https://github.com/ripixel/humble/issues"
   },
-  "homepage": "https://github.com/ripixel/humble#readme"
+  "homepage": "https://github.com/ripixel/humble#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.0",
+    "@types/prettier": "^2.4.0",
+    "@types/yargs": "^17.0.3",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "@typescript-eslint/parser": "^4.31.2",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.2",
+    "prettier": "^2.4.1",
+    "pretty-quick": "^3.1.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^17.2.0"
+  }
 }

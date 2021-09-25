@@ -1,0 +1,6 @@
+{
+  "rootDir": "./",
+  "pagesDir": "pages",
+  "partialsDir": "partials",
+  "outDir": "public"
+}
